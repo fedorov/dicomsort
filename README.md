@@ -42,7 +42,7 @@ names based on the dicom tags in the file.
 
  Examples:
 
-  dicomsort data sorted/%PatientName/%StudyDate/%SeriesDescription-%InstanceUID.dcm
+  dicomsort data sorted/%PatientName/%StudyDate/%SeriesDescription-%SOPInstanceUID.dcm
 
  could create a folder structure like:
 
